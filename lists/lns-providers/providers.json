@@ -1,27 +1,5 @@
 [
   {
-    "name": "ChirpCloud by Trackpac",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/chirpcloud.png",
-    "logoVector": null,
-    "url": "https://chirpcloud.co.uk/",
-    "companyHQ": ["United Kingdom"],
-    "serviceRegion": ["Global"],
-    "serverType": ["Shared", "Private", "On Premise"],
-    "serverLocation": ["Europe"],
-    "description": "Per-device monthly infrastructure subscription + DC usage. Custom for Private SaaS & On-Premise."
-  },
-  {
-    "name": "Heliotics & UPLINK Network",
-    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/heliotics.png",
-    "logoVector": null,
-    "url": "https://heliotics.com/",
-    "companyHQ": ["Germany"],
-    "serviceRegion": ["Global"],
-    "serverType": ["Shared", "Private", "On Premise"],
-    "serverLocation": ["Europe"],
-    "description": "Professional solutions for Private SaaS & On-Premise. Operated on own infrastructure, backed by a dedicated NOC"
-  },
-  {
     "name": "HeyIoT",
     "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/helium-iot.png",
     "logoVector": null,
@@ -31,6 +9,17 @@
     "serverType": ["Shared", "Private"],
     "serverLocation": ["Europe"],
     "description": "Pay-per-message for public or pay-per-month for private and additional support."
+  },
+  {
+    "name": "MeteoScientific",
+    "logoRaster": "https://brand.meteoscientific.com/meteoscientific-helium-console-logo.png",
+    "logoVector": null,
+    "url": "https://www.meteoscientific.com/helium-lns",
+    "companyHQ": ["USA"],
+    "serviceRegion": ["Global"],
+    "serverType": ["Public"],
+    "serverLocation": ["Europe"],
+    "description": "Public Helium LNS — All Welcome. Pay-per-message with no subscription required. Get 400 DC free on signup + complimentary LoRaWAN tutorials. Home of The Business of LoRaWAN podcast. "
   },
   {
     "name": "IoT-Wireless",
@@ -44,15 +33,15 @@
     "description": "Pay-per-message for public use. Pay-per-month for private."
   }, 
   {
-    "name": "MeteoScientific",
-    "logoRaster": "https://brand.meteoscientific.com/meteoscientific-helium-console-logo.png",
+    "name": "Heliotics & UPLINK Network",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/heliotics.png",
     "logoVector": null,
-    "url": "https://www.meteoscientific.com/helium-lns",
-    "companyHQ": ["USA"],
+    "url": "https://heliotics.com/",
+    "companyHQ": ["Germany"],
     "serviceRegion": ["Global"],
-    "serverType": ["Public"],
+    "serverType": ["Shared", "Private", "On Premise"],
     "serverLocation": ["Europe"],
-    "description": "Public Helium LNS — All Welcome. Pay-per-message with no subscription required. Get 400 DC free on signup + complimentary LoRaWAN tutorials. Home of The Business of LoRaWAN podcast. "
+    "description": "Professional solutions for Private SaaS & On-Premise. Operated on own infrastructure, backed by a dedicated NOC"
   },
   {
     "name": "Qnectd",
@@ -108,5 +97,16 @@
     "serverType": ["Shared", "Private"],
     "serverLocation": ["Europe"],
     "description": "Pay-per-message for public or pay-per-month for private and additional support."
-  }
+  },
+  {
+    "name": "ChirpCloud by Trackpac",
+    "logoRaster": "https://raw.githubusercontent.com/helium/well-known/main/lists/lns-providers/imgs/chirpcloud.png",
+    "logoVector": null,
+    "url": "https://chirpcloud.co.uk/",
+    "companyHQ": ["United Kingdom"],
+    "serviceRegion": ["Global"],
+    "serverType": ["Shared", "Private", "On Premise"],
+    "serverLocation": ["Europe"],
+    "description": "Per-device monthly infrastructure subscription + DC usage. Custom for Private SaaS & On-Premise."
+  },
 ]
